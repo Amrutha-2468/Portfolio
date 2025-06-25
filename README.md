@@ -2,8 +2,7 @@
 A personal portfolio website built with ReactJS, Tailwind CSS, and React Router. This project includes user authentication with login/signup pages and a dynamic portfolio page showcasing skills, projects, and a contact form.
 
 🔗 Live Site
-amruthasri-portfolio.netlify.app
-(Replace with your actual deployed link on Vercel / Netlify / Render)
+[amruthasri-portfolio.netlify.app](https://amruthasri-portfolio.netlify.app/)
 
 🛠️ Features
 🔐 User Authentication (Login & Signup with session state)
