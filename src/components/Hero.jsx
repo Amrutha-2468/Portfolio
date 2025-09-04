@@ -37,7 +37,7 @@ const Hero = () => {
           <div className="hero-image">
             <div className="image-placeholder">
                 <img 
-                  src="\Professional_Pic.jpeg"
+                  src="\Professional_Pic.webp"
                   alt="P Amrutha Sri"
                   className="avatar-img"/>
               </div>
